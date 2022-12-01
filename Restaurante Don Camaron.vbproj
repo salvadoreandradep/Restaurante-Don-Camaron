@@ -194,6 +194,7 @@
     <Content Include="Ayuda.aspx" />
     <Content Include="Bitacora.aspx" />
     <Content Include="Cliente.aspx" />
+    <Content Include="consulta.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -392,6 +393,13 @@
     </Compile>
     <Compile Include="Cliente.aspx.vb">
       <DependentUpon>Cliente.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="consulta.aspx.designer.vb">
+      <DependentUpon>consulta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="consulta.aspx.vb">
+      <DependentUpon>consulta.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Default.aspx.vb">
