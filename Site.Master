@@ -62,9 +62,9 @@
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li><a runat="server" href="~/">Inicio</a></li>
-                        <li><a runat="server" href="~/Producto">Producto</a></li>
+                        <li><a runat="server" href="~/Empleados">Productos</a></li>
                         <li><a runat="server" href="~/Cliente">Clientes</a></li>
-                        <li><a runat="server" href="~/Empleados">Empleados</a></li>
+                        <li><a runat="server" href="~/Producto">Empleados</a></li>
                         <li><a runat="server" href="~/Bitacora">Bitacora</a></li>
                         <li><a runat="server" href="~/Pedidos">Pedidos</a></li>
                         <li><a runat="server" href="~/Ayuda">Ayuda</a></li>
@@ -75,8 +75,8 @@
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
                         <AnonymousTemplate>
                             <ul class="nav navbar-nav navbar-right">
-                                <li><a runat="server" href="~/Register">Registrarse</a></li>
-                                <li><a runat="server" href="~/Login">Iniciar sesión</a></li>
+                                <li><a runat="server" href="~/Register">Iniciar Sesion</a></li>
+                                <li><a runat="server" href="~/Login">Registrarse</a></li>
                             </ul>
                         </AnonymousTemplate>
                         <LoggedInTemplate>
