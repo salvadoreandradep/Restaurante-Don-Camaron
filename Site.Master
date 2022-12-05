@@ -64,7 +64,7 @@
                         <li><a runat="server" href="~/">Inicio</a></li>
                  <li><a runat="server" href="~/Producto">Producto</a></li>
                         <li><a runat="server" href="~/Cliente">Clientes</a></li>
-                <li><a runat="server" href="~/Empleado">Empleado</a></li>
+                <li><a runat="server" href="~/empleado">Empleado</a></li>
                         <li><a runat="server" href="~/Bitacora">Bitacora</a></li>
                         <li><a runat="server" href="~/Pedidos">Pedidos</a></li>
                         <li><a runat="server" href="~/Ayuda">Ayuda</a></li>

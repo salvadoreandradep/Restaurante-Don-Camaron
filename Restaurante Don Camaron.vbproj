@@ -201,6 +201,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
+    <Content Include="empleado.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -226,12 +227,22 @@
     <None Include="Resources\8.png" />
     <None Include="Resources\4.png" />
     <None Include="Resources\1.png" />
-    <None Include="Resources\2.png" />
-    <None Include="Resources\3.png" />
-    <None Include="Resources\01.png" />
     <None Include="Resources\ss.png" />
     <None Include="Resources\22.png" />
     <None Include="Resources\contacts_profile_account_connection_icon_124666.png" />
+    <None Include="Resources\2.png" />
+    <None Include="Resources\3.png" />
+    <None Include="Resources\01.png" />
+    <None Include="Resources\02.png" />
+    <None Include="Resources\03.png" />
+    <None Include="Resources\04.png" />
+    <None Include="Resources\0011.png" />
+    <None Include="Resources\0002.png" />
+    <None Include="Resources\0321.png" />
+    <None Include="Resources\0123.png" />
+    <None Include="Resources\0258.png" />
+    <None Include="Resources\0101.png" />
+    <None Include="Resources\00000.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
@@ -414,6 +425,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.vb">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="empleado.aspx.designer.vb">
+      <DependentUpon>empleado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="empleado.aspx.vb">
+      <DependentUpon>empleado.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Global.asax.vb">
       <DependentUpon>Global.asax</DependentUpon>

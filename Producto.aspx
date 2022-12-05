@@ -3,13 +3,24 @@
 
     <p>
 
-        <center>
+            &nbsp;</p>
+    <p>
 
-
-            <img alt="" src="Resources/22.png" style="width: 1097px; height: 52px" /></center>
+            <img alt="" src="Resources/04.png" style="width: 1096px; height: 51px" /></center>
 
     </p>
-    <center>
+        <center>
+    <p>
+        &nbsp;</p>
+            <p>
+                &nbsp;</p>
+            <p>
+                &nbsp;</p>
+            <p>
+                &nbsp;</p>
+            <p>
+        <img alt="" src="Resources/0011.png" style="width: 389px; height: 50px" /></p>
+   
     <p>
 
 
@@ -19,6 +30,11 @@
 
 
     </p>
+        <p>
+
+
+
+            <img alt="" src="Resources/02.png" style="width: 389px; height: 50px" /></p>
     <p>
 
 
@@ -28,6 +44,11 @@
 
 
     </p>
+        <p>
+
+
+
+            <img alt="" src="Resources/03.png" style="width: 389px; height: 50px" /></p>
     <p>
 
 
@@ -50,8 +71,33 @@
 
 
 
-        <asp:Button ID="Button1" runat="server" Text="Agregar" />
+        <asp:Button ID="Button1" runat="server" Text="Nuevo" />
 
+        &nbsp;
+
+
+
+        <asp:Button ID="Button2" runat="server" Text="Agregar" />
+
+
+
+        &nbsp;
+
+
+
+        <asp:Button ID="Button3" runat="server" Text="Modificar" />
+
+
+
+        &nbsp;
+
+
+
+        <asp:Button ID="Button4" runat="server" Text="Eliminar" />
+
+
+
+        
 
 
         <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" CellPadding="4" DataKeyNames="ID" DataSourceID="SqlDataSource1" ForeColor="#333333" GridLines="None" Width="653px">
