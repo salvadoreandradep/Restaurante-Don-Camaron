@@ -201,7 +201,6 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
-    <Content Include="Empleados.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -232,6 +231,7 @@
     <None Include="Resources\01.png" />
     <None Include="Resources\ss.png" />
     <None Include="Resources\22.png" />
+    <None Include="Resources\contacts_profile_account_connection_icon_124666.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
@@ -414,13 +414,6 @@
     </Compile>
     <Compile Include="Default.aspx.designer.vb">
       <DependentUpon>Default.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Empleados.aspx.designer.vb">
-      <DependentUpon>Empleados.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Empleados.aspx.vb">
-      <DependentUpon>Empleados.aspx</DependentUpon>
-      <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Global.asax.vb">
       <DependentUpon>Global.asax</DependentUpon>

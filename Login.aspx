@@ -1,4 +1,4 @@
-﻿<%@ Page Title="iniciar Sesion" Language="vb" AutoEventWireup="false" MasterPageFile="~/Site.Master" CodeBehind="Login.aspx.vb" Inherits="Restaurante_Don_Camaron.Login1" %>
+﻿<%@ Page Title="Registrarse" Language="vb" AutoEventWireup="false" MasterPageFile="~/Site.Master" CodeBehind="Login.aspx.vb" Inherits="Restaurante_Don_Camaron.Login1" %>
 <asp:Content ID="youconten" ContentPlaceHolderID="MainContent" runat="server">
     <p>
         <br />
